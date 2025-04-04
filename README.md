@@ -4,31 +4,31 @@ https://github.com/HGNB0508/cc_logodb/blob/main/sc_logo/donut1.png?raw=true
 북극곰_PB
 https://github.com/HGNB0508/cc_logodb/blob/main/sc_logo/prb.png?raw=true
 
-아가_
+아가_AGG
 https://github.com/HGNB0508/cc_logodb/blob/main/sc_logo/agg2.png?raw=true
 
-우마시스_
+우마시스_USS
 https://github.com/HGNB0508/cc_logodb/blob/main/sc_logo/uss.png?raw=true
 
 흥캬삐_HKB
 https://github.com/HGNB0508/cc_logodb/blob/main/sc_logo/HKB_u.png?raw=true
 
-맥단디_
+맥단디_MDD
 https://github.com/HGNB0508/cc_logodb/blob/main/sc_logo/mdd.png?raw=true
 
-일맙_
+일맙_ILL
 https://github.com/HGNB0508/cc_logodb/blob/main/sc_logo/illx2.png?raw=true
 
-무관_
+무관_MG
 https://github.com/HGNB0508/cc_logodb/blob/main/sc_logo/mg.png?raw=true
 
-말딸성채_
+말딸성채_MMC
 https://github.com/HGNB0508/cc_logodb/blob/main/sc_logo/mmc.png?raw=true
 
-미식전_
+미식전_MSK
 https://github.com/HGNB0508/cc_logodb/blob/main/sc_logo/mimishikjeon.png?raw=true
 
-브라운_
+브라운_BRW
 https://github.com/HGNB0508/cc_logodb/blob/main/sc_logo/brown.jpg?raw=true
 
 바병스_
