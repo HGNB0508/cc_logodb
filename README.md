@@ -31,32 +31,38 @@ https://github.com/HGNB0508/cc_logodb/blob/main/sc_logo/mimishikjeon.png?raw=tru
 브라운_BRW
 https://github.com/HGNB0508/cc_logodb/blob/main/sc_logo/brown.jpg?raw=true
 
-바병스_
+바병스_BBS
 https://github.com/HGNB0508/cc_logodb/blob/main/sc_logo/bbs.png?raw=true
 
-너함이_
+너함이_RDS
 https://github.com/HGNB0508/cc_logodb/blob/main/sc_logo/rds.png?raw=true
 
-맥맥맥_
+맥맥맥_MMM
 https://github.com/HGNB0508/cc_logodb/blob/main/sc_logo/mmm.png?raw=true
 
-교토의봄_
+교토의봄_CUPP
 https://github.com/HGNB0508/cc_logodb/blob/main/sc_logo/cupp3.png?raw=true
 
-밤무강_
+밤무강_MBG
 https://github.com/HGNB0508/cc_logodb/blob/main/sc_logo/bmg2.png?raw=true
 
-베텔_
+베텔_HO
 https://github.com/HGNB0508/cc_logodb/blob/main/sc_logo/ho.png?raw=true
 
-버거사냥꾼_
+버거사냥꾼_BNG
 https://github.com/HGNB0508/cc_logodb/blob/main/sc_logo/buger.png?raw=true
 
-좋은써클_
+좋은써클_GOOD
 https://github.com/HGNB0508/cc_logodb/blob/main/sc_logo/good.png?raw=true
 
-라일락_
+라일락_LIL
 https://github.com/HGNB0508/cc_logodb/blob/main/sc_logo/lillac.png?raw=true
+
+동물친구들1_AF1
+none
+
+동물친구들2_AF2
+none
 
 미지정_NOI
 https://github.com/HGNB0508/cc_logodb/blob/main/sc_logo/URA.png?raw=true
