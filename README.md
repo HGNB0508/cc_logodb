@@ -62,5 +62,5 @@ https://github.com/HGNB0508/cc_logodb/blob/main/sc_logo/lillac.png?raw=true
 https://github.com/HGNB0508/cc_logodb/blob/main/sc_logo/AF.png?raw=true
 
 
-미지정_NOI
+미지정
 https://github.com/HGNB0508/cc_logodb/blob/main/sc_logo/URA.png?raw=true
