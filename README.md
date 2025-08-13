@@ -61,6 +61,8 @@ https://github.com/HGNB0508/cc_logodb/blob/main/sc_logo/lillac.png?raw=true
 동물친구들
 https://github.com/HGNB0508/cc_logodb/blob/main/sc_logo/AF.png?raw=true
 
+교환소
+https://github.com/HGNB0508/cc_logodb/blob/main/sc_logo/trc.png?raw=true
 
 미지정
 https://github.com/HGNB0508/cc_logodb/blob/main/sc_logo/URA.png?raw=true
